@@ -32,5 +32,5 @@ This repository includes all the task-based projects completed during the intern
 
 ---
 
-## 📦 Repository Structure
+
 
