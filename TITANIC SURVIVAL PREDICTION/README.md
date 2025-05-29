@@ -1,16 +1,45 @@
-🚢 Excited to share my first project for the CodSoft Data Science Internship — **Titanic Survival Prediction**!
-
-📊 In this project, I used machine learning to predict whether a passenger would survive the Titanic tragedy using:
-- Logistic Regression
-- Random Forest Classifier
-- Data cleaning, encoding, and feature selection
-
-💡 Tools Used: Python, Pandas, scikit-learn
-
-✅ Achieved solid accuracy and saved the model for deployment!
-
-🗂️ GitHub Repo: [Add your GitHub repo link here]
-
-Thanks to @CodSoft for this amazing opportunity to learn and grow!
-
 #CodSoft #DataScience #InternshipProject #MachineLearning #TitanicPrediction #PythonProject #BCAStudent #GitHub
+# 🚢 Titanic Survival Prediction - CodSoft Data Science Internship Task
+
+This is a machine learning project for my **CodSoft Data Science Internship (June 2025 Batch - B31)**.  
+The goal is to build a predictive model that determines whether a passenger survived the Titanic disaster based on features such as age, sex, fare, class, etc.
+
+---
+
+## 📁 Dataset
+
+- Dataset provided by CodSoft: `Titanic-Dataset.csv`
+- Columns include: `PassengerId`, `Pclass`, `Name`, `Sex`, `Age`, `SibSp`, `Parch`, `Ticket`, `Fare`, `Cabin`, `Embarked`, `Survived`
+
+---
+
+## 🧠 Features & Techniques
+
+- Handled missing values (`Age`, `Cabin`, `Embarked`)
+- Encoded categorical variables (Sex, Embarked)
+- Dropped non-informative features (Name, Ticket, PassengerId)
+- Trained on multiple models:
+  - ✅ Logistic Regression
+  - ✅ Random Forest Classifier
+- Evaluated using Accuracy, Confusion Matrix, Classification Report
+- Saved final model using `joblib`
+
+---
+
+## 🔧 Tools & Libraries
+
+- Python
+- Pandas
+- Scikit-learn
+- Joblib
+
+---
+
+## 🎯 Accuracy
+
+Achieved good prediction accuracy using Logistic Regression and Random Forest.
+
+---
+
+
+
