@@ -24,7 +24,7 @@ This repository includes all the task-based projects completed during the intern
 - 📌 Techniques: Logistic Regression, Random Forest
 - 🔧 Tools: Python, Pandas, Scikit-learn
 - 📁 Folder: `titanic_survival_prediction/`
-- 🔗 [View Project Folder](./titanic_survival_prediction)
+
 
 ---
 
